@@ -1,4 +1,6 @@
-<h2> :smile_cat: hey there!</h2>
+<h2> :smile_cat: Hey there!</h2>
+<h3> My name is Svetlana.</h2>
+<h4> I'm studying to be backend developer.</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svro2022&theme=slateorange)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svro2022&theme=slateorange)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svro2022&theme=slateorange)
