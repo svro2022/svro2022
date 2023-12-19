@@ -8,13 +8,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svro2022&theme=slateorange)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svro2022&theme=slateorange)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=svro2022&theme=slateorange)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=svro2022&theme=slateorange)
 ---
-### :woman_technologist: About Me :
+### About Me :
 [GitHub Repositories](https://github.com/svro2022?tab=repositories) |
 [GitLab work page](https://gitlab.com/svro2022) |
 [![codewars](https://www.codewars.com/users/svro/badges/micro)](https://www.codewars.com/users/svro)
  
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="50" height="50"/>&nbsp; 
