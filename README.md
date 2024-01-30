@@ -35,10 +35,9 @@
 
 ---
 
-## Links :
-[GitHub Repositories](https://github.com/svro2022?tab=repositories) |
-[GitLab work page](https://gitlab.com/svro2022) |
-[![codewars](https://www.codewars.com/users/svro/badges/micro)](https://www.codewars.com/users/svro)
+## My Contacts :
+- [Telegram](https://t.me/svetaromanova2020)
+- [Linkedin](https://www.linkedin.com/in/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-1052552a4/)
 
 ---
 
